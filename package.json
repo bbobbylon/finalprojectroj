@@ -1,0 +1,16 @@
+{
+  "name": "ch3exercises",
+  "version": "1.0.0",
+  "description": "First package.json file",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bob",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.1.0",
+    "handlebars": "^4.7.6"
+  }
+}
